@@ -12,7 +12,7 @@ window.onload = function excuse() {
   const why = ["do not like me", "were late", "were hungry"];
 
   const selectedWhoIndex = Math.floor(Math.random() * who.length);
-  const selectedcAtionIndex = Math.floor(Math.random() * action.length);
+  const selectedctionIndex = Math.floor(Math.random() * action.length);
   const selectedWhatIndex = Math.floor(Math.random() * what.length);
   const selectedWhyIndex = Math.floor(Math.random() * why.length);
 
